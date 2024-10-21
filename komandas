@@ -1,0 +1,3 @@
+git commit -m "izmaiņas"
+git push origin main
+git pull origin main
